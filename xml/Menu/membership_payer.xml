@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/admin/setting/membership-payer</path>
+    <title>Membership Payer</title>
+    <page_callback>CRM_Admin_Form_Generic</page_callback>
+    <desc>Choose the legacy contribution pages where an organisation pays for an individual membership.</desc>
+    <access_arguments>access CiviContribute,administer CiviCRM</access_arguments>
+    <adminGroup>CiviContribute</adminGroup>
+    <weight>90</weight>
+  </item>
+</menu>

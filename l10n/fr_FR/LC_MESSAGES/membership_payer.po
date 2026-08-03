@@ -1,0 +1,31 @@
+# French translation for Membership Payer CiviCRM Extension.
+# Copyright (C) 2026 Jonathan Dahan
+# This file is distributed under the same license as the membership-payer package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: membership-payer 0.1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-03 23:11+0200\n"
+"PO-Revision-Date: 2026-08-03 23:11+0200\n"
+"Last-Translator: Jonathan Dahan <jonathan@dhn.one>\n"
+"Language-Team: French <fr@li.org>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Contribution pages with organisation-paid membership"
+msgstr "Pages de contribution avec adhésion réglée par une entreprise"
+
+msgid "Select the legacy contribution pages where an organisation pays while the individual receives the membership. Other pages retain their default behavior."
+msgstr "Sélectionnez les pages de contribution historiques où l'entreprise règle et la personne reçoit l'adhésion. Les autres pages conservent strictement leur comportement habituel."
+
+msgid "Membership Payer"
+msgstr "Membership Payer"
+
+msgid "Choose the legacy contribution pages where an organisation pays for an individual membership."
+msgstr "Choisissez les pages de contribution historiques où une organisation paie pour une adhésion individuelle."
+
+msgid "Separates the organisation paying an online membership from the individual member."
+msgstr "Sépare l'organisation payant une adhésion en ligne du membre individuel."

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension key="membership-payer" type="module">
+  <file>membership_payer</file>
+  <name>Membership Payer</name>
+  <description>Separates the organisation paying an online membership from the individual member.</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Jonathan Dahan</author>
+    <email>jonathan@dhn.one</email>
+  </maintainer>
+  <urls>
+    <url desc="Maintained on GitHub">https://github.com/jonathandhn/membership-payer</url>
+    <url desc="Support">https://www.jonathan.dhn.one/</url>
+  </urls>
+  <releaseDate>2026-08-04</releaseDate>
+  <version>0.1.4</version>
+  <compatibility>
+    <ver>5.68</ver>
+  </compatibility>
+</extension>
